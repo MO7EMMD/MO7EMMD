@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">mo7mels — Building useful things for the web</title>
+  <desc id="description">Web development and Telegram bots. A dark banner with lime lettering and an abstract digital orb, matching the mo7mels portfolio.</desc>
+  <defs>
+    <radialGradient id="glow">
+      <stop stop-color="#46632d" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#080b0a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#d1ff9b"/>
+      <stop offset=".3" stop-color="#72b85d"/>
+      <stop offset=".7" stop-color="#183e2a"/>
+      <stop offset="1" stop-color="#080f0a"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#bbff6a" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="orb-clip"><circle cx="1010" cy="160" r="90"/></clipPath>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="#080b0a"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="160" rx="330" ry="250" fill="url(#glow)"/>
+  <path d="M48 269H1152" stroke="#29382b"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="54" cy="47" r="4" fill="#bbff6a"/>
+    <text x="70" y="53" fill="#bbff6a" font-size="14" font-weight="600" letter-spacing="2">WEB DEVELOPMENT / TELEGRAM BOTS</text>
+    <text x="44" y="155" fill="#eff4f0" font-size="86" font-weight="800" letter-spacing="-6">mo<tspan fill="#bbff6a">7</tspan>mels</text>
+    <text x="48" y="211" fill="#c1cdc4" font-size="27">Building useful things for the web.</text>
+    <text x="48" y="299" fill="#a3b0a6" font-size="14">Learning by building. Improving with every project.</text>
+    <text x="1152" y="299" fill="#bbff6a" text-anchor="end" font-size="14">mo7mels.com</text>
+  </g>
+  <circle cx="1010" cy="160" r="90" fill="url(#orb)"/>
+  <g clip-path="url(#orb-clip)" fill="none" stroke="#d1ff9b" stroke-opacity=".22">
+    <ellipse cx="1010" cy="160" rx="34" ry="90"/>
+    <ellipse cx="1010" cy="160" rx="67" ry="90"/>
+    <ellipse cx="1010" cy="160" rx="90" ry="32"/>
+    <ellipse cx="1010" cy="160" rx="90" ry="65"/>
+    <path d="M920 160H1100M1010 70V250"/>
+  </g>
+  <ellipse cx="1010" cy="160" rx="128" ry="43" transform="rotate(-30 1010 160)" fill="none" stroke="#bbff6a" stroke-opacity=".6"/>
+  <ellipse cx="1010" cy="160" rx="119" ry="55" transform="rotate(55 1010 160)" fill="none" stroke="#91cc81" stroke-opacity=".3"/>
+  <circle cx="1121" cy="96" r="4" fill="#d1ff9b"/>
+  <circle cx="905" cy="221" r="3" fill="#bbff6a"/>
+</svg>
