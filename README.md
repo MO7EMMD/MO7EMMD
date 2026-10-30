@@ -3,14 +3,35 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mo7mels.com/portfolio/">Portfolio</a> ·
-  <a href="https://www.mo7mels.com">Mo7mels</a> ·
-  <a href="https://t.me/Nozvxa">Get in touch</a>
+  <a href="https://www.mo7mels.com">
+    <img src="https://img.shields.io/badge/WEBSITE-MO7MELS.COM-BBFF6A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=24292F" alt="Website: mo7mels.com">
+  </a>
+  <a href="https://www.mo7mels.com/portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_WORK-2389DA?style=for-the-badge&amp;labelColor=24292F" alt="Portfolio: view my work">
+  </a>
 </p>
 
 ## Hi, I'm mo7mels.
 
 I build web tools and Telegram bots for creators and online communities. I learn by turning ideas into working projects, improving their interfaces, and adding useful features along the way.
+
+---
+
+```text
+mo7mels@127.0.0.1:~$ cat contact.txt
+```
+
+<p align="center">
+  <a href="https://t.me/Nozvxa">
+    <img src="https://img.shields.io/badge/TELEGRAM-%40NOZVXA-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=555555" alt="Telegram: @Nozvxa">
+  </a>
+  <br>
+  <a href="https://github.com/MO7EMMD">
+    <img src="https://img.shields.io/badge/GITHUB-MO7EMMD-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555" alt="GitHub: MO7EMMD">
+  </a>
+</p>
+
+---
 
 ### Featured projects
 
