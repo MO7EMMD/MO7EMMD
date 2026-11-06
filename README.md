@@ -9,6 +9,9 @@
   <a href="https://www.mo7mels.com/portfolio/">
     <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_WORK-2389DA?style=for-the-badge&amp;labelColor=24292F" alt="Portfolio: view my work">
   </a>
+  <a href="https://ko-fi.com/mo7mels">
+    <img src="https://img.shields.io/badge/KO--FI-SUPPORT_MY_WORK-FF5E5B?style=for-the-badge&amp;logo=kofi&amp;logoColor=white&amp;labelColor=24292F" alt="Support my work on Ko-fi">
+  </a>
 </p>
 
 ## Hi, I'm mo7mels.
